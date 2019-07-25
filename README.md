@@ -33,3 +33,6 @@ Personnel Recruitment
 
 简历投递 Email:   lichun.guo@bitmain.com 
 
+公司官网: https://www.bitmain.com/ 
+AntPool矿池: https://antpool.com/
+BTC.com矿池: https://btc.com/
